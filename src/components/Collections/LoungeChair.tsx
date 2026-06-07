@@ -1,5 +1,6 @@
 export default function LoungeChair() {
     return (
+        //remove all the commented code
         <section className="lg:col-span-8 flex flex-col gap-md">
             <div className="relative bg-surface-container-low rounded-xl overflow-hidden aspect-[4/3] flex items-center justify-center soft-shadow group">
                 <img className="w-full h-full object-cover" data-alt="A high-end, minimalist lounge chair presented in a brightly lit architectural space with warm natural sunlight casting soft shadows. The furniture piece features a rich walnut wood frame and cream-colored textured upholstery, reflecting a refined and intentional design aesthetic. The environment is clean and airy, emphasizing the tactile quality of the materials and the organic curves of the chair." src="https://lh3.googleusercontent.com/aida-public/AB6AXuAm4qB-yZRc1EtgXCbGrl_gIWN2o-h_VDTOMbxWWPy0FxizR_FivASAzV_bervMK3P1AlgunttOwITcDc_g0k78baesfOFhWiYzD7Wrt7uIXDYvjOh26pS37rWMnWaVBWaR737QN3a3H28bjMPBwjVbLopGsM89w8RxnFDqcbDufjJPb0XAH5uZ-fDIpIzhTboj02WQqaAdLalgYiotUdF1JTStFFPVcL9iwCbQwlhCArJ5CuoKZYXjtDl5oGu7xf7rbHPwoIZHD1U" />
